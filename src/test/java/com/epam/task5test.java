@@ -1,0 +1,14 @@
+package com.epam;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class task5test {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
